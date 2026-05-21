@@ -1,0 +1,6 @@
+﻿safetyreportid,safetyreportversion,receivedate,receiptdate,transmissiondate,serious,seriousnessdeath,seriousnesshospitalization,seriousnesslifethreatening,seriousnessdisabling,seriousnessother,primarysourcecountry,occurcountry,reporttype,duplicate,companynumb
+10003300,1,20140306,20140306,20141002,1,,,,1,,US,,1,1,1289378
+10003320,3,20140312,20150812,20151125,2,,,,,,US,US,1,1,US-GILEAD-2012-0056834
+10003327,1,20140312,20140312,20141002,1,,1,,,,CN,CN,1,1,PHHY2014CN026563
+10003344,3,20140312,20150812,20151125,2,,,,,,US,US,1,1,US-GILEAD-2012-0059206
+10003375,1,20140312,20140312,20141002,1,,1,,,,CN,CN,1,1,PHHY2014CN026564

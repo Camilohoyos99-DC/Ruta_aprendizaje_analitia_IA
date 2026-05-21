@@ -1,0 +1,22 @@
+﻿safetyreportid,reaction_sequence,reactionmeddrapt,reactionmeddraversionpt
+10003300,1,Vomiting,17.0
+10003300,2,Diarrhoea,17.0
+10003300,3,Arthralgia,17.0
+10003300,4,Headache,17.0
+10003320,1,Headache,18.1
+10003320,2,Hypotension,18.1
+10003327,1,Respiratory failure,17.0
+10003327,2,Listeriosis,17.0
+10003327,3,Pyrexia,17.0
+10003327,4,Headache,17.0
+10003327,5,Vomiting,17.0
+10003327,6,Mental status changes,17.0
+10003327,7,Meningitis,17.0
+10003327,8,Pneumonia staphylococcal,17.0
+10003344,1,Headache,18.1
+10003375,1,Loss of consciousness,17.0
+10003375,2,Listeriosis,17.0
+10003375,3,Pyrexia,17.0
+10003375,4,Headache,17.0
+10003375,5,Vomiting,17.0
+10003375,6,Meningitis,17.0

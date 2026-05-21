@@ -1,0 +1,51 @@
+﻿safetyreportid,receivedate,receiptdate,serious,seriousnessdeath,seriousnesshospitalization,seriousnesslifethreatening,occurcountry,primarysourcecountry,patient_age,patient_age_unit,patient_sex,reaction_terms,drug_names,drug_roles,number_of_reactions,number_of_drugs,year
+10003300,20140306,20140306,1,,,,,US,77,801,2,Vomiting | Diarrhoea | Arthralgia | Headache,BONIVA,1,4,1,2014
+10003320,20140312,20150812,2,,,,US,US,42,801,1,Headache | Hypotension,TYVASO | LOSARTAN. | LETAIRIS | LOSARTAN. | LETAIRIS,1 | 1 | 1 | 1 | 1,2,5,2014
+10003327,20140312,20140312,1,,1,,CN,CN,53,801,1,Respiratory failure | Listeriosis | Pyrexia | Headache | Vomiting | Mental status changes | Meningitis | Pneumonia staphylococcal,PREDNISONE | DEXAMETHASONE | METHOTREXATE,1 | 1 | 1,8,3,2014
+10003344,20140312,20150812,2,,,,US,US,69,801,2,Headache,LETAIRIS | LETAIRIS,1 | 1,1,2,2014
+10003375,20140312,20140312,1,,1,,CN,CN,53,801,2,Loss of consciousness | Listeriosis | Pyrexia | Headache | Vomiting | Meningitis,PREDNISONE | CYCLOPHOSPHAMIDE,1 | 1,6,2,2014
+10003390,20140312,20150812,2,,,,US,US,44,801,2,Headache | Dyspnoea | Diarrhoea | Increased appetite | Swelling | Weight increased | Vomiting,LETAIRIS,1,7,1,2014
+10003398,20140312,20140312,1,,,1,GB,GB,77,801,1,"Hallucination, visual | Headache | Insomnia | Somnolence | Confusional state",DONEPEZIL | DONEPEZIL (UNKNOWN) | TRAMADOL,1 | 1 | 2,5,3,2014
+10003399,20140312,20150812,2,,,,US,US,56,801,2,Headache | Dizziness exertional | Haemoglobin decreased | Dyspnoea,LETAIRIS,1,4,1,2014
+10003420,20140312,20150812,2,,,,US,US,75,801,2,Headache | Vomiting | Blood pressure decreased | Nausea,LETAIRIS,1,4,1,2014
+10003427,20140312,20150812,2,,,,US,US,64,801,2,Abdominal distension | Headache | Tinnitus | Diarrhoea,REVATIO | LETAIRIS,1 | 1,4,2,2014
+10003450,20140312,20140312,1,,,,BR,BR,68,801,2,Blood pressure fluctuation | Dyspepsia | Allergic cough | Headache | Malaise,CAPTOPRIL SANDOZ | SINVASTACOR,1 | 2,5,2,2014
+10003475,20140312,20150812,2,,,,US,US,40,801,1,Arthralgia | Headache | Pain in jaw,LETAIRIS | EPOPROSTENOL. | LETAIRIS | LETAIRIS | LETAIRIS | LETAIRIS | LETAIRIS | LETAIRIS | LETAIRIS | REVATIO,1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 2,3,10,2014
+10003486,20140312,20150812,2,,,,US,US,70,801,2,Fatigue | Headache | Nasal congestion | Dyspnoea | Peripheral swelling,LETAIRIS,1,5,1,2014
+10003497,20140312,20140312,2,,,,US,US,56,801,1,Headache | Drug ineffective,VIAGRA,1,2,1,2014
+10003508,20140312,20140312,2,,,,US,US,68,801,2,Abdominal pain | Headache,JAKAFI,1,2,1,2014
+10003528,20140312,20150812,2,,,,US,US,62,801,2,Headache,LETAIRIS | LETAIRIS,1 | 1,1,2,2014
+10003549,20140312,20140312,1,,,,CA,CA,62,801,2,Nasopharyngitis | Malaise | Pyrexia | Nasal congestion | Headache | Diarrhoea | Nausea,ACLASTA | ACLASTA,1 | 1,7,2,2014
+10003564,20140312,20150812,2,,,,US,US,44,801,2,Headache | Abdominal pain | Insomnia,LETAIRIS | TYVASO,1 | 1,3,2,2014
+10003600,20140312,20140312,2,,,,US,US,,,2,Increased appetite | Inappropriate schedule of drug administration | Alopecia | Abdominal distension | Headache | Weight increased,JAKAFI | JAKAFI | HYDROXYUREA,1 | 1 | 2,6,3,2014
+10003617,20140312,20140312,1,,,,US,US,82,801,2,Haemoglobin decreased | Pyrexia | Headache,JAKAFI,1,3,1,2014
+10003655,20140312,20140312,1,,1,,US,US,43,801,2,Organising pneumonia | Fall | Lung infection | Urinary tract infection bacterial | Lower respiratory tract infection bacterial | Acute respiratory distress syndrome | Loss of consciousness | Psoriasis | Blood cholesterol increased | Amnesia | Dyspnoea | Headache | Exposure to contaminated water,HUMIRA | HUMIRA | COQ10 | MAGNESIUM | VITAMIN B | LOW ESTROGEN BIRTH CONTROL | ADVIL,1 | 1 | 2 | 2 | 2 | 2 | 2,13,7,2014
+10003660,20140312,20140325,2,,,,CA,CA,43,801,1,Chest pain | Tremor | Headache,GILENYA,1,3,1,2014
+10003707,20140312,20140312,1,,1,,US,US,41,801,2,Suicide attempt | Antipsychotic drug level below therapeutic | Mental disorder | Antipsychotic drug level above therapeutic | Adverse reaction | Suicidal ideation | Dizziness | Aphasia | Syncope | Memory impairment | Bronchitis | Irritability | Feeling abnormal | Amnesia | Conversion disorder | Visual impairment | Vision blurred | Headache | Pyrexia | Pain | Injection site reaction | Injection site haemorrhage | Fatigue,REBIF | REBIF | WELLBUTRIN | LITHIUM | ATIVAN | NEURONTIN,1 | 1 | 2 | 2 | 2 | 2,23,6,2014
+10003743,20140312,20150812,2,,,,US,US,46,801,1,Headache,LETAIRIS | LETAIRIS,1 | 1,1,2,2014
+10003781,20140312,20140312,2,,,,US,US,,,2,Faeces pale | Headache | Feeling jittery | Heart rate increased | Insomnia,DEPAKOTE,1,5,1,2014
+10003822,20140312,20140314,1,,1,,US,US,,,2,Headache | Toothache | Peritonitis | Peritoneal dialysis complication,DIANEAL LOW CALCIUM (ULTRABAG) | DIANEAL LOW CALCIUM (ULTRABAG) | DIANEAL LOW CALCIUM (ULTRABAG) | DIANEAL LOW CALCIUM (ULTRABAG),1 | 1 | 1 | 1,4,4,2014
+10003830,20140312,20140312,1,,,,US,US,72,801,2,Mycobacterium tuberculosis complex test positive | Headache | Chest discomfort,HUMIRA | TRAMADOL | PREDNISONE | ROPINIROLE | METHOCARBAMOL | CALCIUM | ACTONEL,1 | 2 | 2 | 2 | 2 | 2 | 2,3,7,2014
+10003917,20140312,20140815,1,,,,US,US,56,801,2,Blood lactate dehydrogenase increased | White blood cell count increased | Epistaxis | Headache | Influenza | Nausea | Contusion | Wound haemorrhage | Blood smear test abnormal | Fatigue | Adverse drug reaction | Disease progression,JAKAFI | TACROLIMUS. | JAKAFI | RAPAMUNE | PENTASA | VAGIFEM | MAGNESIUM | SIMVASTATIN. | PAROXETINE | JAKAFI | OMEPRAZOLE. | ACYCLOVIR                          /00587301/ | CALCIUM WITH VITAMIN D             /00944201/ | FLAXSEED,1 | 2 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 2 | 2 | 2,12,14,2014
+10003922,20140312,20140312,2,,,,US,US,,,2,Headache | Drug effect incomplete,DEPAKOTE | DIVALPROEX SODIUM | BUPROPION | ATORVASTATIN,1 | 1 | 2 | 2,2,4,2014
+10003927,20140312,20140312,1,,1,,US,US,,,1,Headache | Nausea | Pyrexia | Rash | Myalgia | Muscular weakness | Gait disturbance | Tremor,DEPAKOTE | LAMOTRIGINE | LITHIUM,1 | 1 | 2,8,3,2014
+10003953,20140312,20140520,2,,,,US,US,,,2,Headache,LETAIRIS,1,1,1,2014
+10003982,20140312,20150122,1,,,,US,US,79,801,1,Muscle abscess | Diarrhoea | Headache | Platelet count decreased | Gout,ALLOPURINOL. | JAKAFI | JAKAFI | JAKAFI,2 | 1 | 1 | 1,5,4,2014
+10003989,20140312,20140312,2,,,,US,US,,,2,Headache | Pharyngitis,LETAIRIS | TYVASO,1 | 2,2,2,2014
+10003992,20140312,20140312,2,,,,US,US,73,801,2,Diarrhoea | Dyspepsia | Nausea | Headache,JAKAFI,1,4,1,2014
+10004037,20140312,20140314,2,,,,PR,PR,52,801,2,Chills | Myalgia | Headache | Dizziness | Nausea | Myalgia | Chills,RIBAVIRIN | PEGINTERFERON ALFA-2B | PREMARIN,1 | 1 | 2,7,3,2014
+10004051,20140312,20140312,2,,,,US,US,,,1,Pain | Dizziness | Headache,JAKAFI | JAKAFI | ULORIC | BENICAR | AMLODIPINE | OMEPRAZOLE | ASPIRIN,1 | 1 | 2 | 2 | 2 | 2 | 2,3,7,2014
+10004057,20140312,20200421,2,,,,US,US,,,,Malaise | Nausea | Haemoglobin decreased | Headache,JAKAFI | FISH OIL | LEXAPRO | JAKAFI | ASPIRIN. | VITAMIN D                          /00107901/ | SYNTHROID | ALBUTEROL                          /00139501/ | METOPROLOL. | MULTIVITAMIN                       /00097801/ | RANEXA | CALCIUM | LORAZEPAM. | TYLENOL PM | PRILOSEC | AMLODIPINE | SYMBICORT,1 | 2 | 2 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2,4,17,2014
+10004089,20140312,20140312,1,,1,,US,US,46,801,1,Convulsion | Alcohol detoxification | Loss of consciousness | Alcohol withdrawal syndrome | Renal failure acute | Dehydration | Joint injury | Tongue injury | Swollen tongue | Electrolyte imbalance | Dysarthria | Fall | Laceration | Gait disturbance | Headache | Drug ineffective,AMPYRA | BUSPAR | GLUCOPHAGE | LIPITOR | SPIRONOLACTONE | LISINOPRIL | CARDIZEM | ALLOPURINOL | METFORMIN | REBIF | CYANOCOBALAMIN | THIAMINE | FOLIC ACID | LORAZEPAM,1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2,16,14,2014
+10004098,20140312,20140507,1,,,,US,US,,,2,Paraesthesia | Asthenia | Back pain | Dyspepsia | Constipation | Renal function test abnormal | Pruritus | Throat irritation | Diarrhoea | Nasal discomfort | Malaise | Multiple sclerosis relapse | Urinary tract infection | Dizziness | Headache | Nausea,AMPYRA | COPAXONE | ALL OTHER THERAPEUTIC PRODUCTS,1 | 2 | 2,16,3,2014
+10004111,20140312,20140611,2,,,,US,US,58,801,2,Rash | Headache,JAKAFI | JAKAFI | TRICOR                             /00090101/ | METFORMIN | GLIPIZIDE | LOSARTAN + HIDROCLOROTIAZIDA | ALLOPURINOL | AMITRIPTYLINE | ASPIRIN | FLOVENT | IPRATROPIUM  INHALER                    /00391402/ | AZITHROMYCIN | MULTIVITAMINS | THIAMINE | NIACIN | CALCIUM  SUPPLEMENT                          /00060701/ | MAGNESIUM  SUPPLEMENT                        /00123201/,1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2,2,17,2014
+10004179,20140312,20140611,2,,,,US,US,68,801,2,Platelet count increased | Abdominal discomfort | Hypoaesthesia | Paraesthesia | Nausea | Headache | Dizziness | Contusion | Ecchymosis,JAKAFI | JAKAFI | JAKAFI | ZOFRAN                             /00955301/ | FAMOTIDINE | NORCO | ALLOPURINOL | LASIX                              /00032601/ | ALDACTONE                          /00006201/ | HYDROXYUREA | INDERAL,1 | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2,9,11,2014
+10004191,20140312,20140611,2,,,,US,US,55,801,2,Vitreous floaters | Contusion | Weight increased | Headache,JAKAFI | HYDROCODONE,1 | 2,4,2,2014
+10004225,20140312,20150812,2,,,,US,US,65,801,2,Headache,LETAIRIS,1,1,1,2014
+10004242,20140312,20150812,2,,,,US,US,65,801,2,Headache,LETAIRIS,1,1,1,2014
+10004275,20140312,20150812,2,,,,US,US,28,801,2,Headache | Intra-uterine contraceptive device insertion | Palpitations,LETAIRIS,1,3,1,2014
+10004276,20140312,20140312,2,,,,US,US,72,801,2,Oral mucosal blistering | Abdominal discomfort | Headache,XELJANZ,1,3,1,2014
+10004289,20140312,20140312,1,,1,,US,,,,2,Headache,SOLIRIS,1,1,1,2014
+10004298,20140312,20150812,2,,,,US,US,62,801,2,Pruritus | Dry mouth | Headache | Decreased appetite | Dizziness | Dyspnoea,LETAIRIS,1,6,1,2014
+10004336,20140312,20150812,2,,,,US,US,37,801,1,Headache | Swelling face | Ocular hyperaemia,LETAIRIS,1,3,1,2014
+10004348,20140312,20150812,2,,,,US,US,53,801,2,Cough | Headache | Sinus congestion,TYVASO | LETAIRIS,1 | 1,3,2,2014
